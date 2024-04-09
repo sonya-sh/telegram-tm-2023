@@ -1,0 +1,6 @@
+.env
+/env/
+/.idea/
+/bot_log.txt
+/copy2.py
+/tt2023.py
